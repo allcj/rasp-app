@@ -1,0 +1,327 @@
+.nomargin-bottom{
+  margin-bottom: 0px !important;
+}
+.font-sm{
+  font-size: 0.8em !important;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.lowercase{
+  text-transform: lowercase;
+}
+.site-menu-icon{
+  font-size:25px !important;
+}
+.site-menu-title{
+  font-size:12px !important;
+  text-shadow: none !important;
+}
+.navbar-brand-logo{
+  width:120px;
+  height:auto !important;
+  margin-top:-18px;
+  margin-left:-9px
+}
+.icon-nav:before{
+  font-size:24px;
+}
+.layout-full{
+  background-color: #F8F8F8;
+}
+.centered{
+  float:none;
+  margin-left: auto;
+  margin-right: auto;
+}
+.clear{
+  clear: both;
+}
+.font-family-opensans{
+  font-family: 'Open Sans', sans-serif !important;
+}
+.font-lighter{
+  font-weight: 100 !important;
+}
+.font-normal{
+  font-weight: 400 !important;
+}
+.font-semibold{
+  font-weight: 600 !important;
+}
+.font-bold{
+  font-weight: 700 !important;
+}
+.font-uppercase{
+  text-transform: uppercase;
+}
+.active-custom{
+  color: #3aa99e !important;
+}
+.screen{
+  position:absolute;
+  width:100%;
+  background-color: rgb(241, 244, 245);
+  height:auto;
+  min-height: 100%;
+}
+.full-height{
+  min-height: 100% !important;
+  height: auto !important;
+}
+.site-menu-title{
+  font-size: 14px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+.site-menu-icon{
+  font-size: 16px !important;
+  margin-right: 17.5px !important;
+}
+.site-menu-category{
+  font-family: 'Open Sans', sans-serif;
+}
+.site-menu-badge span{
+
+}
+.btn{
+  font-family: 'Open Sans', sans-serif;
+}
+.form-control{
+  font-family: 'Open Sans', sans-serif;
+}
+.nopadding{
+  padding:0px !important;
+}
+.nopadding-left{
+  padding-left:0px !important;
+}
+.underline{
+  border-bottom:1px solid #CCCCCC;
+}
+.table-link-item{
+  text-decoration: none !important;
+}
+.c-white{
+  color:#FFFFFF !important;
+}
+.c-teal{
+  color:#3aa99e !important;
+}
+.nomargin-vertical{
+  margin-top:0px !important;
+  margin-bottom:0px !important;
+}
+.title-padding-nav{
+  padding-top:22.5px !important;
+  padding-bottom:22.5px !important;
+}
+#logo_dashboard{
+  width:160px;
+  margin-top:-10px;
+}
+.font-sm{
+  font-size: 0.8em;
+}
+.font-xs{
+  font-size: 0.6em;
+}
+.floating-label{
+  font-family: 'Open Sans', sans-serif;
+}
+label{
+  font-family: 'Open Sans', sans-serif;
+}
+.nopadding-bottom{
+  padding-bottom:0px !important;
+}
+.nopadding-left{
+  padding-left:0px !important;
+}
+.nopadding-right{
+  padding-right: 0px !important;
+}
+.padding-left-xs{
+  padding-left:5px !important;
+}
+.padding-right-xs{
+  padding-right:5px !important;
+}
+.cursor-pointer{
+  cursor:pointer !important;
+}
+.page-login-main{
+  padding-top:75px !important;
+  padding-bottom:0px !important;
+}
+h1,h2,h3,h4,h5,h6,p,button{
+  font-family: 'Open Sans', sans-serif !important;
+}
+.page-login-v2{
+  background-image: url(../img/bg_login.png);
+  background-size: contain;
+  background-position-y: center;
+}
+.nomargin-left{
+  margin-left: 0px !important;
+}
+.mt-0{
+  margin-top:0px !important;
+}
+#logo_dashboard_mobile{
+  margin-top: -5px;
+}
+.notification-item-pic{
+  width:34px;
+  height:34px;
+  border-radius: 100px;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
+  border:1px solid #DDDDDD;
+}
+.notification-item-post{
+  width:36px;
+  height:36px;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+}
+.btn-sm-custom{
+  font-size:10px !important;
+  padding:3px 6px !important;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.list-group-item{
+  border-bottom:1px solid #EFEFEF !important;
+}
+.list-group-item:last-child{
+  border-bottom:none !important;
+}
+.shadowbox{
+
+}
+.panel-title{
+  font-family: 'Open Sans', sans-serif;
+}
+.panel-custom{
+  border:none !important;
+  box-shadow: 0 0 10px rgba(0,0,0,.05);
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,.05);
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,.05);
+}
+.item-post{
+  margin-top:25px;
+  margin-bottom:25px;
+}
+.item-post-profile{
+  padding-bottom: 30px;
+}
+.dropdown-toggle::after {
+    border:0px !important;
+    margin:0px !important;
+}
+.font-md{
+  font-size: 0.9em !important;
+}
+.no-text-decoration{
+  text-decoration: none !important;
+}
+.full-width{
+  width:100% !important;
+}
+.nopadding-left{
+  padding-left:0px !important;
+}
+.nopadding-right{
+  padding-right:0px !important;
+}
+#sidebar-sos{
+  height:100% !important;
+  background-color:#FFFFFF;
+}
+.site-menubar{
+  width:25% !important;
+}
+.site-menubar-body{
+  height:100%;
+}
+.item-sos{
+  padding:20px;
+  margin:10px;
+  background-color:#F9F9F9;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-bottom:1px solid #EEEEEE;
+}
+.item-sos:hover{
+  box-shadow: 0 0 10px rgba(0,0,0,.05);
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,.05);
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,.05);
+}
+#mapasos{
+  float: right;
+  position:absolute;
+  height:100%;
+  width:100% !important;
+  padding-top:0px;
+  margin-top:-66px !important;
+}
+#mapa{
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+}
+#content-info-solicitacao{
+  background-color: #FFFFFF;
+  position:absolute;
+  height:50%;
+  bottom:0px;
+  width:100%;
+  padding:25px;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+0,0.65+100 */
+background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.85) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0.85) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.85) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 ); /* IE6-9 */
+}
+.text-shadow{
+  text-shadow: 0px 0px 2px #000000;
+}
+.shadowbox-custom{
+  border:none !important;
+  box-shadow: 0 0 100px rgba(100,100p,100,.4);
+  -moz-box-shadow: 0 0 100px rgba(100,100,100,.2);
+  -webkit-box-shadow: 0 0 100px rgba(100,100,100,.2);
+}
+.no-bg{
+  background: none !important;
+}
+.border-radius{
+  border-radius: 10px !important;
+  -moz-border-radius: 10px !important;
+  -webkit-border-radius: 10px !important;
+}
+.font-size-normal{
+  font-size:14px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: 600 !important;
+  text-transform: uppercase;
+}
+#profile-menu{
+  padding-top:21px;
+  padding-bottom:21px;
+  cursor:pointer;
+}
+#label-chamado{
+  margin-top:100px;
+  text-align: center;
+  color:#AAAAAA;
+  text-transform: uppercase;
+}
+.item-situation{
+  border-radius: 5px;
+  border:none !important;
+  padding:5px;
+  font-size:0.8em;
+}

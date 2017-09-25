@@ -1,0 +1,27 @@
+{
+  "name": "central-sos",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "jquery": "^3.2.1",
+    "pubsub-js": "^1.5.7",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.1.1",
+    "react-spinkit": "^3.0.0",
+    "socket.io": "^2.0.3",
+    "socket.io-react": "^1.2.0",
+    "toastr": "^2.1.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
